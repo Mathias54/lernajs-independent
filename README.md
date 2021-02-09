@@ -4,10 +4,3 @@ Projeto de exemplo utilizado como base para a talk [Monorepos com Lernajs]() par
 
 - [Acesso à apresentação](https://docs.google.com/presentation/d/1VTZuVfLLnTzqUZyp4kHnKHomDtVqq1VgNkubbcbMbYk/edit?usp=sharing)
 - [Acesso à exemplo de modo fixed](https://github.com/Mathias54/lernajs-fixed)
-
-### Rodando o exemplo
-
-- Adiciona uma nova feature no components
-- Crie uma nova versão 
-
-Nota que 
